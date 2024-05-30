@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dyanakiev\\RiderProjects\\2324-sd-csharp-11v-introduction-to-web-development-dryanakiev\\MyFirstWebApp\\MyFirstWebApp\\MyFirstWebApp.csproj",
-      "projectName": "MyFirstWebApp",
-      "projectPath": "C:\\Users\\dyanakiev\\RiderProjects\\2324-sd-csharp-11v-introduction-to-web-development-dryanakiev\\MyFirstWebApp\\MyFirstWebApp\\MyFirstWebApp.csproj",
+      "projectUniqueName": "C:\\Users\\dyanakiev\\RiderProjects\\2324-sd-csharp-11v-introduction-to-web-development-dryanakiev\\MyFirstWebApp\\MyFirstWebApp.PL\\MyFirstWebApp.PL.csproj",
+      "projectName": "MyFirstWebApp.PL",
+      "projectPath": "C:\\Users\\dyanakiev\\RiderProjects\\2324-sd-csharp-11v-introduction-to-web-development-dryanakiev\\MyFirstWebApp\\MyFirstWebApp.PL\\MyFirstWebApp.PL.csproj",
       "packagesPath": "C:\\Users\\dyanakiev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dyanakiev\\RiderProjects\\2324-sd-csharp-11v-introduction-to-web-development-dryanakiev\\MyFirstWebApp\\MyFirstWebApp\\obj\\",
+      "outputPath": "C:\\Users\\dyanakiev\\RiderProjects\\2324-sd-csharp-11v-introduction-to-web-development-dryanakiev\\MyFirstWebApp\\MyFirstWebApp.PL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
